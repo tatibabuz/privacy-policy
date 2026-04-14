@@ -40,6 +40,10 @@ Açık rızanız olmadan verileriniz üçüncü kişilerle paylaşılmaz.
 
 Kişisel verileriniz, KVKK madde 5 uyarınca; hizmetin sunulması için zorunlu olması ve meşru menfaatlerimiz kapsamında, temel hak ve özgürlüklerinize zarar vermemek koşuluyla işlenmektedir.
 
+**Çocukların Gizliliği**
+
+ExchangeHub hizmetleri, 13 yaşın altındaki çocuklara doğrudan hitap etmemektedir. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. Bir çocuğun bize kişisel veri sağladığını fark etmemiz durumunda, bu bilgileri sunucularımızdan derhal silmekteyiz. Eğer bir ebeveyn veya vasiyseniz ve çocuğunuzun bize veri sağladığını fark ederseniz, gerekli aksiyonları alabilmemiz için lütfen [babuzbusiness53@gmail.com] üzerinden bizimle iletişime geçin.
+
 **Yasal Haklarınız**
 
 KVKK madde 11 uyarınca aşağıdaki haklara sahipsiniz:
