@@ -78,4 +78,4 @@ Başvurularınız için babuzbusiness53@gmail.com adresine e-posta gönderebilir
 
 **Onay ve Yürürlük**
 
-Bu Gizlilik Politikası 14 Nisan 2026 tarihinde yürürlüğe girmiş olup gerektiğinde güncellenir.
+Bu Gizlilik Politikası 14 Nisan 2026 tarihinde yürürlüğe girmiş olup gerektiğinde güncellenir. Önemli bir değişiklik yapılması durumunda, uygulama içinden veya bu sayfa üzerinden kullanıcılar bilgilendirilecektir.
